@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/poxy.github.io/static/css/main.4cb59810.chunk.css",
+    "main.js": "/poxy.github.io/static/js/main.fbeb2dbb.chunk.js",
+    "main.js.map": "/poxy.github.io/static/js/main.fbeb2dbb.chunk.js.map",
+    "runtime-main.js": "/poxy.github.io/static/js/runtime-main.df8eeddf.js",
+    "runtime-main.js.map": "/poxy.github.io/static/js/runtime-main.df8eeddf.js.map",
+    "static/js/2.ce1d65be.chunk.js": "/poxy.github.io/static/js/2.ce1d65be.chunk.js",
+    "static/js/2.ce1d65be.chunk.js.map": "/poxy.github.io/static/js/2.ce1d65be.chunk.js.map",
+    "index.html": "/poxy.github.io/index.html",
+    "static/css/main.4cb59810.chunk.css.map": "/poxy.github.io/static/css/main.4cb59810.chunk.css.map",
+    "static/js/2.ce1d65be.chunk.js.LICENSE.txt": "/poxy.github.io/static/js/2.ce1d65be.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/poxy.github.io/static/media/galaxy1.3846930f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df8eeddf.js",
+    "static/js/2.ce1d65be.chunk.js",
+    "static/css/main.4cb59810.chunk.css",
+    "static/js/main.fbeb2dbb.chunk.js"
+  ]
+}
