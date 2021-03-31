@@ -1,0 +1,66 @@
+p {
+    margin: 0;
+}
+
+.Card {
+    background: #514875;
+    border-radius: 10px;
+}
+
+.Card--img {
+    text-align: center;
+}
+
+.Card--types {
+    display: flex;
+    justify-content: center;    
+}
+
+.Card--type Link {
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 5px;
+    background: cyan;
+    color: #fff;
+}
+
+.Card--name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.Card--info {
+    margin-left: 10px;
+}
+
+.Card--data {
+    padding-bottom: 10px;
+}
+
+.Card--data .title {
+    font-weight: 700;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.btn button {
+    border-style: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    background: #30a7d7;
+    color: #fff;
+    font-size: 1em;
+}
+.grid-container {
+    width: 70%;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px;
+}

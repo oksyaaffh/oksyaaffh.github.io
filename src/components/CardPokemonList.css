@@ -1,0 +1,43 @@
+p {
+    margin: 0;
+}
+
+.Card--pl {
+    background: #514875;
+    border-radius: 10px;
+}
+
+.Card__img {
+    text-align: center;
+
+}
+
+
+
+.Card--name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.Card__moreinfo {
+    display: flex;
+    justify-content: center;    
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 5px;
+    background: cyan;
+    color: #fff;
+}
+
+.view-container{
+    display: block;
+      text-align: center;
+      margin: 2rem auto;
+      border-radius: 4px;
+      width: 80%;
+      text-decoration: none;
+      padding: 20px 30px;
+      border: 0px;
+      transition: all 0.3s ease-out;
+}
